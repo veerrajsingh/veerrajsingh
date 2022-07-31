@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me vrs24x7@gmail.com
+- 📫 How to reach me veerrajsinghbhullar@gmail.com
 
 <!---
 veerrajsingh/veerrajsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
